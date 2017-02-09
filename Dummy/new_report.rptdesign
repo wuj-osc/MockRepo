@@ -10,7 +10,8 @@
             <page-header>
                 <text id="4">
                     <property name="contentType">auto</property>
-                    <text-property name="content"><![CDATA[testing]]></text-property>
+                    <text-property name="content"><![CDATA[sucks
+]]></text-property>
                 </text>
             </page-header>
             <page-footer>
